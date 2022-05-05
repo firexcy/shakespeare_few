@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "612c18279e81c792",
+        "id": "5b82001e7e72feaa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_dashbord_.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       },
       {
-        "id": "ad86aee56162e8ff",
+        "id": "69881402f692be80",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/98_wont.md",
-            "mode": "preview"
+            "file": "WDLIST.md",
+            "mode": "source"
           }
         }
       },
       {
-        "id": "663f5eeadea725a2",
+        "id": "4e2c60e367a82cdf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "works/The Comedy of Errors.md",
-            "mode": "preview"
+            "file": "words/00_afeard.md",
+            "mode": "source"
           }
         }
       }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "words/98_wont.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ad86aee56162e8ff",
+  "active": "5b82001e7e72feaa",
   "lastOpenFiles": [
-    "words/98_wont.md",
-    "_dashbord_.md",
-    "works/Cymbeline.md",
-    "works/A Midsummer Night’s Dream.md",
-    "works/The Comedy of Errors.md",
+    "README.md",
+    "WDLIST.md",
+    "DASHBD.md",
     "words/00_afeard.md",
-    "words/53_livery.md",
-    "works/Henry VI, Part 3.md",
-    "works/Henry VI, Part 1.md",
-    "_fulllist_.md"
+    "Pasted image 20220505214904.png",
+    "Pasted image 20220505214901.png",
+    "ShakespearesWords.com.md",
+    "works/The Comedy of Errors.md",
+    "words/98_wont.md",
+    "works/Cymbeline.md"
   ]
 }

@@ -9,7 +9,7 @@ table title as "Title"
 from "words"
 where learned_on = date(today)
 sort title
-````````````
+```
 
 ### Reviewed Words
 
@@ -18,7 +18,7 @@ table title as "Title"
 from "words"
 where reviewed_on = date(today)
 sort title
-````````````
+```
 
 ## Refresher
 
