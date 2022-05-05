@@ -3,5 +3,6 @@
   "strictLineBreaks": true,
   "showFrontmatter": true,
   "showLineNumber": true,
-  "useTab": false
+  "useTab": false,
+  "fileSortOrder": "alphabetical"
 }

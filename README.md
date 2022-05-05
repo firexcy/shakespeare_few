@@ -14,7 +14,7 @@ The repo reflects exactly the current status of the said vault on my computer. I
 
 ## [TODO] How do I plan to learn
 
-Each day I will use the “random note” feature of Obsidian to pull up three words from the `words` directory. Then, I will read the definition and example usage, locate the occurence in the original context, and supplement it with a Chinese translation. I will also 
+Each day I will use the “random note” feature of Obsidian to pull up three words from the `words` directory. Then, I will read the definition and example usage, locate the occurence in the original context, and supplement it with a Chinese translation.
 
 For each play referred to in the examples, I will also create an entry in the `works` directory, in which, among other notes of interest, the corresponding Wikipedia page will be included in form of an `iframe` embedment for the convenience of future references.
 

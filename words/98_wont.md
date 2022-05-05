@@ -34,7 +34,7 @@ his hands for my service but blows. […]
 
 **Regnier to all** *Talbot is taken, whom we ==wont== to fear*
 
-[雷尼耶] 我们==平素==忌惮的塔尔博特已被俘虏
+**雷尼耶** 我们==平素==忌惮的塔尔博特已被俘虏
 
 ## [[Henry VI, Part 3]] [3H6 II.vi.76](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=6&WorkId=31#225862) 
 
