@@ -4,7 +4,7 @@ learned_on:   "N/A"
 reviewed_on:  "N/A"
 ---
 
-**1** dishonourable, low, unworthy
+==1== dishonourable, low, unworthy
 
 [AYL II.vii.79](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=7&WorkId=26#205888) \[Jaques to Duke Senior\] *what is he of basest function*
 
@@ -14,7 +14,7 @@ reviewed_on:  "N/A"
 
 [1H6 V.v.49](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=5&WorkId=25#204463) \[Suffolk to all\] *Disgrace not so your king / That he should be so abject, base, and poor / To choose for wealth*
 
-**2** low-born, lowly, plebeian, of lower rank
+==2== low-born, lowly, plebeian, of lower rank
 
 [Cor I.i.155](https://www.shakespeareswords.com/Public/Play.aspx?Act=1&Scene=1&WorkId=3#120517) \[Menenius to First Citizen\] *one o'th'lowest, basest, poorest / Of this most wise rebellion*
 
@@ -26,7 +26,7 @@ reviewed_on:  "N/A"
 
 [TNK II.iii.2](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=3&WorkId=37#250417) \[Gaoler's Daughter alone\] *I am base, / My father the mean keeper of his prison*
 
-**3** poor, wretched, of low quality
+==3== poor, wretched, of low quality
 
 [1H6 I.i.137](https://www.shakespeareswords.com/Public/Play.aspx?Act=1&Scene=1&WorkId=25#201038) \[Third Messenger to all\] *A base Walloon ... / Thrust Talbot with a spear into the back*
 

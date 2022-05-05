@@ -4,13 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2963b7e20066a7f7",
+        "id": "612c18279e81c792",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/00_afeard.md",
-            "mode": "source"
+            "file": "_dashbord_.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "ad86aee56162e8ff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "words/98_wont.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "663f5eeadea725a2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "works/The Comedy of Errors.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 195
   },
   "right": {
     "id": "de64e74b965a3aa4",
@@ -68,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "words/00_afeard.md",
+                "file": "words/98_wont.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2963b7e20066a7f7",
+  "active": "ad86aee56162e8ff",
   "lastOpenFiles": [
-    "words/00_afeard.md",
+    "words/98_wont.md",
     "_dashbord_.md",
-    "_fulllist_.md",
-    "_tracker_.md",
-    "words/90_sup.md",
-    "words/96_wench.md",
-    "words/81_remembrance.md",
-    "words/57_mere.md",
-    "words/11_become.md",
-    "words/02_apace.md"
+    "works/Cymbeline.md",
+    "works/A Midsummer Night’s Dream.md",
+    "works/The Comedy of Errors.md",
+    "words/00_afeard.md",
+    "words/53_livery.md",
+    "works/Henry VI, Part 3.md",
+    "works/Henry VI, Part 1.md",
+    "_fulllist_.md"
   ]
 }

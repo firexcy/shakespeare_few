@@ -4,7 +4,7 @@ learned_on:   "N/A"
 reviewed_on:  "N/A"
 ---
 
-**1** stop, cease, desist
+==1== stop, cease, desist
 
 [AYL II.vii.88](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=7&WorkId=26#205897) \[Orlando to all\] *Forbear, and eat no more*
 
@@ -14,7 +14,7 @@ reviewed_on:  "N/A"
 
 [TG III.i.202](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=1&WorkId=5#130083) \[Proteus to Launce\] *Villain, forbear*
 
-**2** leave alone, avoid, stay away \[from\]
+==2== leave alone, avoid, stay away \[from\]
 
 [AC III.xiii.107](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=13&WorkId=8#110442) \[Antony to Cleopatra\] *Have I ... / Forborne the getting of a lawful race*
 

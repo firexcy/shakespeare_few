@@ -4,7 +4,7 @@ learned_on:   "N/A"
 reviewed_on:  "N/A"
 ---
 
-**1** await, wait for, expect
+==1== await, wait for, expect
 
 [Cor I.x.30](https://www.shakespeareswords.com/Public/Play.aspx?Act=1&Scene=10&WorkId=3#121457) \[Aufidius to First Soldier\] *I am attended at the cypress grove*
 

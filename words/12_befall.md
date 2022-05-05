@@ -4,7 +4,7 @@ learned_on:   "N/A"
 reviewed_on:  "N/A"
 ---
 
-**1** happen, occur, take place, turn out
+==1== happen, occur, take place, turn out
 
 [AYL IV.iii.103](https://www.shakespeareswords.com/Public/Play.aspx?Act=4&Scene=3&WorkId=26#207489) \[Oliver to Rosalind and Celia disguised\] *Lo, what befell!*
 
@@ -14,7 +14,7 @@ reviewed_on:  "N/A"
 
 [MND V.i.153](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=1&WorkId=4#127881) \[Snout to all\] *In this same interlude it doth befall / That I ... present a wall*
 
-**2** happen to, come to
+==2== happen to, come to
 
 [E3 II.ii.23](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=2&WorkId=14#163469) \[Derby to Edward\] *Befall my sovereign all my sovereign's wish*
 

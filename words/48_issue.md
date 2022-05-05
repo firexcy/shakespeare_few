@@ -4,7 +4,7 @@ learned_on:   "N/A"
 reviewed_on:  "N/A"
 ---
 
-**1** child(ren), offspring, family, descendant
+==1== child(ren), offspring, family, descendant
 
 [1H6 II.v.94](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=5&WorkId=25#202303) \[Mortimer to Richard\] *thou seest that I no issue have*
 
@@ -12,7 +12,7 @@ reviewed_on:  "N/A"
 
 [Mac III.i.64](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=1&WorkId=13#160567) \[Macbeth alone\] *for Banquo's issue have I filed my mind*
 
-**2** outcome, result, consequence(s)
+==2== outcome, result, consequence(s)
 
 [H5 V.ii.12](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=2&WorkId=38#257014) \[Queen Isabel to King Henry\] *happy be the issue ... / Of this good day*
 

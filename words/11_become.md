@@ -4,7 +4,7 @@ learned_on:   "N/A"
 reviewed_on:  "N/A"
 ---
 
-**1** be fitting, befit, be appropriate to
+==1== be fitting, befit, be appropriate to
 
 [AYL I.i.74](https://www.shakespeareswords.com/Public/Play.aspx?Act=1&Scene=1&WorkId=26#204630) \[Orlando to Oliver\] *I will no further offend you than becomes me for my good*
 
@@ -12,7 +12,7 @@ reviewed_on:  "N/A"
 
 [R2 II.i.140](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=1&WorkId=22#190764) \[King Richard to all, as if to John of Gaunt\] *let them die that age and sullens have; / For both hast thou, and both become the grave*
 
-**2** grace, honour, dignify
+==2== grace, honour, dignify
 
 [AC I.i.49](https://www.shakespeareswords.com/Public/Play.aspx?Act=1&Scene=1&WorkId=8#107317) \[Antony to and of Cleopatra\] *whom everything becomes*
 

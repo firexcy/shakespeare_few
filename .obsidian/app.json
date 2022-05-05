@@ -1,3 +1,7 @@
 {
-  "communityThemeSortOrder": "release"
+  "communityThemeSortOrder": "download",
+  "strictLineBreaks": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "useTab": false
 }
