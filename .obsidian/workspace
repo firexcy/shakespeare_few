@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5b82001e7e72feaa",
+        "id": "e904bcd5a567f39e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -15,56 +15,45 @@
         }
       },
       {
-        "id": "b9fb58f3b54e7924",
+        "id": "eba72a0f12d5fd4a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/98_wont.md",
+            "file": "words/96_wench.md",
             "mode": "preview"
           }
         }
       },
       {
-        "id": "58673b7a7e25a063",
+        "id": "0e94caf8dc012bba",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/53_livery.md",
+            "file": "words/78_purpose.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "d59b7230ce4bb030",
+        "id": "cc1710e07b488378",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/00_afeard.md",
+            "file": "works/King Lear.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "69881402f692be80",
+        "id": "0b84bd461267de94",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "4e2c60e367a82cdf",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "words/00_afeard.md",
+            "file": "words/73_post.md",
             "mode": "source"
           }
         }
@@ -123,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "words/96_wench.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69881402f692be80",
+  "active": "eba72a0f12d5fd4a",
   "lastOpenFiles": [
-    "README.md",
-    "WDLIST.md",
-    "words/98_wont.md",
-    "DASHBD.md",
-    "words/53_livery.md",
-    "words/00_afeard.md",
-    "Pasted image 20220505214904.png",
-    "Pasted image 20220505214901.png",
-    "ShakespearesWords.com.md",
-    "works/The Comedy of Errors.md"
+    "words/96_wench.md",
+    "works/The Tempest.md",
+    "works/The Two Noble Kinsmen.md",
+    "words/78_purpose.md",
+    "works/Measure for Measure.md",
+    "works/King Lear.md",
+    "works/Macbeth.md",
+    "words/73_post.md",
+    "works/Henry VI, Part 2.md",
+    "DASHBD.md"
   ]
 }
