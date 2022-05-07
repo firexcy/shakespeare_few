@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e904bcd5a567f39e",
+        "id": "16aa06d4000a51a4",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -15,46 +15,35 @@
         }
       },
       {
-        "id": "eba72a0f12d5fd4a",
+        "id": "57aa8b0cb086df50",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/96_wench.md",
+            "file": "words/72_place.md",
             "mode": "preview"
           }
         }
       },
       {
-        "id": "0e94caf8dc012bba",
+        "id": "446a7907f29eead0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/78_purpose.md",
-            "mode": "source"
+            "file": "words/91_undone.md",
+            "mode": "preview"
           }
         }
       },
       {
-        "id": "cc1710e07b488378",
+        "id": "de4e29511a639746",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "works/King Lear.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "0b84bd461267de94",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "words/73_post.md",
-            "mode": "source"
+            "file": "words/28_envious.md",
+            "mode": "preview"
           }
         }
       }
@@ -96,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 195
+    "width": 195,
+    "collapsed": true
   },
   "right": {
     "id": "de64e74b965a3aa4",
@@ -112,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "words/96_wench.md",
+                "file": "words/28_envious.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eba72a0f12d5fd4a",
+  "active": "de4e29511a639746",
   "lastOpenFiles": [
-    "words/96_wench.md",
-    "works/The Tempest.md",
-    "works/The Two Noble Kinsmen.md",
-    "words/78_purpose.md",
-    "works/Measure for Measure.md",
-    "works/King Lear.md",
-    "works/Macbeth.md",
-    "words/73_post.md",
+    "words/28_envious.md",
+    "words/72_place.md",
+    "words/91_undone.md",
+    "works/Romeo and Juliet.md",
     "works/Henry VI, Part 2.md",
+    "works/Cymbeline.md",
+    "works/The Winter's Tale.md",
+    "works/Pericles.md",
+    "works/Othello.md",
     "DASHBD.md"
   ]
 }

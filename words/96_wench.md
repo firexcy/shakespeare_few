@@ -26,7 +26,7 @@ girl, lass
 
 -----
 
-[From Merriam-Webster](https://www.merriam-webster.com/dictionary/wench)
+From [Merriam-Webster](https://www.merriam-webster.com/dictionary/wench)
 
 old-fashioned : a young woman or girl 
 
