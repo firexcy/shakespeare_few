@@ -37,5 +37,7 @@
   "underlineInternal": true,
   "underlineExternal": true,
   "useSystemTheme": true,
-  "folding": true
+  "folding": true,
+  "lineNumbers": true,
+  "readableLineLength": true
 }

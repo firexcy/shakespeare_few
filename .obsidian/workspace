@@ -4,45 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "16aa06d4000a51a4",
+        "id": "ff18c0c8ca511570",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DASHBD.md",
+            "file": "words/86_sport.md",
             "mode": "preview"
           }
         }
       },
       {
-        "id": "7f092e97e85fdc2c",
+        "id": "39b041feb368c37c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/77_presently.md",
+            "file": "words/74_power.md",
             "mode": "preview"
           }
         }
       },
       {
-        "id": "6cb4de10210b9f6a",
+        "id": "071161010f53e7e8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/66_parle.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "033162fa49663cd2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "words/62_office.md",
+            "file": "words/55_marvellous.md",
             "mode": "preview"
           }
         }
@@ -102,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "words/77_presently.md",
+                "file": "words/86_sport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,17 +109,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7f092e97e85fdc2c",
+  "active": "ff18c0c8ca511570",
   "lastOpenFiles": [
-    "words/77_presently.md",
-    "words/66_parle.md",
-    "works/The Taming of the Shrew.md",
-    "words/62_office.md",
-    "works/Twelfth Night.md",
-    "works/Much Ado About Nothing.md",
+    "words/86_sport.md",
     "DASHBD.md",
-    "words/48_issue.md",
-    "words/02_apace.md",
-    "words/59_methinks.md"
+    "works/Love’s Labour’s Lost.md",
+    "words/55_marvellous.md",
+    "words/74_power.md",
+    "works/Coriolanus.md",
+    "works/Richard III.md",
+    "words/66_parle.md",
+    "words/59_methinks.md",
+    "words/77_presently.md"
   ]
 }

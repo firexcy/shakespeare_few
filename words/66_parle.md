@@ -26,7 +26,7 @@ negotiation, meeting \[between enemies under a truce, to discuss terms\]
 
 **Hortensio to Gremio** *the nature of our quarrel yet never brooked ==parle==*
 
-**霍坦西奥** 还讲一句话，我俩虽是情敌，从未谈过==合作==，要知道，也请考虑，我们有着共同的利益
+**霍坦西奥** 还讲一句话，我俩虽是情敌，从未谈过==合作==
 
 
 -----
