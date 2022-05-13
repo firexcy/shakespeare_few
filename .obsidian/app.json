@@ -4,5 +4,7 @@
   "showFrontmatter": true,
   "showLineNumber": true,
   "useTab": false,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "legacyEditor": false,
+  "livePreview": false
 }

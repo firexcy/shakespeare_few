@@ -4,46 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "c4dc7666bf7b214e",
+        "id": "9b091e936d05bb43",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "DASHBD.md",
-            "mode": "preview"
+            "mode": "source",
+            "source": true
           }
         }
       },
       {
-        "id": "d803f2d6cb58f393",
+        "id": "954422ea0e734d1d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/64_ope.md",
-            "mode": "preview"
+            "file": "words/99_wot.md",
+            "mode": "preview",
+            "source": true
           }
         }
       },
       {
-        "id": "bce85c2debb09c96",
+        "id": "e9af29dcd06fd4e7",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/51_like.md",
-            "mode": "preview"
+            "file": "words/50_lief.md",
+            "mode": "preview",
+            "source": true
           }
         }
       },
       {
-        "id": "a61cd3159275c50e",
+        "id": "2149e80f9c7a5acf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/36_fright.md",
-            "mode": "preview"
+            "file": "words/08_aye.md",
+            "mode": "preview",
+            "source": true
           }
         }
       }
@@ -102,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "words/64_ope.md",
+                "file": "words/08_aye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d803f2d6cb58f393",
+  "active": "2149e80f9c7a5acf",
   "lastOpenFiles": [
-    "words/64_ope.md",
-    "words/36_fright.md",
-    "words/51_like.md",
-    "works/The Merry Wives of Windsor.md",
-    "works/Coriolanus.md",
+    "words/08_aye.md",
+    "words/50_lief.md",
+    "words/99_wot.md",
+    "works/Antony and Cleopatra.md",
     "DASHBD.md",
-    "works/Twelfth Night.md",
-    "works/Henry VI, Part 3.md",
-    "works/Much Ado About Nothing.md",
-    "works/King Edward III.md"
+    "works/Henry V.md",
+    "words/51_like.md",
+    "words/36_fright.md",
+    "words/64_ope.md",
+    "works/The Merry Wives of Windsor.md"
   ]
 }
