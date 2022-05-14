@@ -6,5 +6,6 @@
   "useTab": false,
   "fileSortOrder": "alphabetical",
   "legacyEditor": false,
-  "livePreview": false
+  "livePreview": false,
+  "alwaysUpdateLinks": true
 }
