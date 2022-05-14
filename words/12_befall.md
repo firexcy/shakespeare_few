@@ -25,4 +25,3 @@ reviewed_on:  "N/A"
 [R3 I.iv.16](https://www.shakespeareswords.com/Public/Play.aspx?Act=1&Scene=4&WorkId=6#132626) \[Clarence to Keeper\] *a thousand heavy times ... / That had befallen us*
 
 See also: befall of (v.)
-

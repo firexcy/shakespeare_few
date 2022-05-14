@@ -11,4 +11,3 @@ completely, totally, entirely
 [AYL III.ii.383](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=2&WorkId=26#206598) \[Rosalind to Orlando\] *Love is merely a madness*
 
 *see also* merely (adv.) 2--3
-

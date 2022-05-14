@@ -6,9 +6,9 @@ reviewed_on:  "N/A"
 
 uniform, costume, special clothing
 
-## [[Henry IV, Part 2]] [2H4 V.v.12](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=5&WorkId=39#261687) 
+## [[Henry IV, Part 2]] [2H4 V.v.12](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=5&WorkId=39#261687)
 
-**Falstaff to Shallow** *O, if I had had time to have made new ==liveries==,* 
+**Falstaff to Shallow** *O, if I had had time to have made new ==liveries==,*
 
 *I would have bestowed the thousand pound I borrowed of you.*
 
@@ -16,7 +16,7 @@ uniform, costume, special clothing
 
 我借你的那一千英镑就花在衣服上了。
 
-## [[A Midsummer Night’s Dream]] [MND I.i.70](https://www.shakespeareswords.com/Public/Play.aspx?Act=1&Scene=1&WorkId=4#125511) 
+## [[A Midsummer Night’s Dream]] [MND I.i.70](https://www.shakespeareswords.com/Public/Play.aspx?Act=1&Scene=1&WorkId=4#125511)
 
 **Theseus to Hermia** *Know of your youth, examine well your blood,*
 
@@ -34,9 +34,8 @@ uniform, costume, special clothing
 
 From [Merriam-Webster](https://www.merriam-webster.com/dictionary/livery)
 
-
 liv·ery | \\ ˈli-və-rē, ˈliv-rē \\
 
 2c : the distinctive clothing or badge formerly worn by the retainers (see retainer entry 1 sense 1) of a person of rank
 
-History and Etymology: Middle English, from Anglo-French liveree, livree, literally, delivery, from liverer to deliver, from Latin liberare to free — more at liberate 
+History and Etymology: Middle English, from Anglo-French liveree, livree, literally, delivery, from liverer to deliver, from Latin liberare to free — more at liberate

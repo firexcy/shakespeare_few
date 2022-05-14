@@ -35,4 +35,3 @@ reviewed_on:  "N/A"
 [TNK III.iii.44](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=3&WorkId=37#250939) \[Palamon to Arcite\] *Base cousin, / Darest thou break first?*
 
 See also: base (adj.) 4--6, base (n.)
-

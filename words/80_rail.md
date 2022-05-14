@@ -13,4 +13,3 @@ rant, rave, be abusive \[about\]
 [R2 V.v.90](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=5&WorkId=22#193199) \[Richard, as if to his horse\] *Why do I rail on thee*
 
 [TN I.v.89](https://www.shakespeareswords.com/Public/Play.aspx?Act=1&Scene=5&WorkId=21#186657) \[Olivia to Malvolio\] *There is no slander in an allowed fool, though he do nothing but rail*
-

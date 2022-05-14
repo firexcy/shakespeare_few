@@ -11,4 +11,3 @@ hasten, hurry, speed
 [CE III.ii.155](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=2&WorkId=1#113496) \[Antipholus of Syracuse to Dromio of Syracuse\] *Go, hie thee presently*
 
 [Ham I.i.155](https://www.shakespeareswords.com/Public/Play.aspx?Act=1&Scene=1&WorkId=2#115061) \[Horatio to Marcellus and Barnardo\] *Th'extravagant and erring spirit hies / To his confine*
-

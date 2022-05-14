@@ -23,4 +23,3 @@ reviewed_on:  "N/A"
 [R3 IV.iv.118](https://www.shakespeareswords.com/Public/Play.aspx?Act=4&Scene=4&WorkId=6#135304) \[Queen Margaret to Queen Elizabeth\] *Forbear to sleep the nights*
 
 See also: forbear (v.) 3--4
-

@@ -17,4 +17,3 @@ somewhat, rather
 [Tem III.i.58](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=1&WorkId=12#157894) \[Miranda to Ferdinand\] *I prattle / Something too wildly*
 
 *see also* something (adv.) 2
-

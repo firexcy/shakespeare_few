@@ -15,4 +15,3 @@ reviewed_on:  "N/A"
 [TG III.i.186](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=1&WorkId=5#130052) \[Valentine alone\] *Tarry I here, I but attend on death*
 
 See also: attend (v.) 2--8
-

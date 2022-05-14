@@ -19,4 +19,3 @@ reviewed_on:  "N/A"
 [Cor II.iii.99](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=3&WorkId=3#122247) \[Coriolanus to Fourth Citizen\] *I will counterfeit the bewitchment of some popular man*
 
 See also: counterfeit (n.), (adj.)
-

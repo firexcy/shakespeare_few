@@ -13,4 +13,3 @@ field of battle, battleground, field of combat
 [1H6 V.iii.1](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=3&WorkId=25#203873)2 \[Pucelle to the spirits\] *Help me this once, that France may get the field* \[i.e. win the battle\]
 
 See also: field (n.) 2--4
-

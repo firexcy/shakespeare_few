@@ -15,4 +15,3 @@ note, pay attention to, take notice of
 [Mac IV.iii.169](https://www.shakespeareswords.com/Public/Play.aspx?Act=4&Scene=3&WorkId=13#161763) \[Ross to Macduff\] *Where sighs and groans … / Are made, not marked*
 
 See also: mark (n.) 2, (n.)
-

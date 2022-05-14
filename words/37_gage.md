@@ -11,4 +11,3 @@ pledge, challenge \[usually, a glove or gauntlet thrown down\]
 [R2 IV.i.34](https://www.shakespeareswords.com/Public/Play.aspx?Act=4&Scene=1&WorkId=22#192177) \[Fitzwater to Aumerle\] *There is my gage, Aumerle, in gage to thine*
 
 See also: gage (v.)
-

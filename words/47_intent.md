@@ -13,4 +13,3 @@ intention, purpose, aim
 [LLL V.ii.753](https://www.shakespeareswords.com/Public/LanguageCompanion/New%20link:%20Plays.aspx?Act=5&Scene=2&WorkId=28#215889) \[King to the ladies, of their beauty\] *fashioning our humours / Even to the opposed end of our intents*
 
 [R3 I.i.149](https://www.shakespeareswords.com/Public/Play.aspx?Act=1&Scene=1&WorkId=6#131728) \[Richard alone\] *if I fail not in my deep intent*
-

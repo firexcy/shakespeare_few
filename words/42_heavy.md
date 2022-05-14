@@ -13,4 +13,3 @@ sorrowful, sad, gloomy
 [TG IV.ii.136](https://www.shakespeareswords.com/Public/Play.aspx?Act=4&Scene=2&WorkId=5#130810) \[disguised Julia to Host\] *it hath been the longest night / That e'er I watched, and the most heaviest*
 
 See also: heavy (adj.) 2--10
-

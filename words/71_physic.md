@@ -15,4 +15,3 @@ medicine, healing, treatment
 [RJ II.iii.48](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=3&WorkId=32#229622) \[Romeo to Friar, of Juliet\] *Both our remedies / Within thy help and holy physic lies*
 
 See also: physic (n.) 2, (v.)
-

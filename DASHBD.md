@@ -11,15 +11,6 @@ where learned_on = date(today)
 sort title
 ```
 
-### Reviewed Words
-
-```dataview
-table title as "Title"
-from "words"
-where reviewed_on = date(today)
-sort title
-```
-
 ## Refresher
 
 ### 1 Day

@@ -13,4 +13,3 @@ treacherous, traitorous, perfidious
 [R2 I.iii.106](https://www.shakespeareswords.com/Public/Play.aspx?Act=1&Scene=3&WorkId=22#190264) \[First Herald to all, of Bolingbroke\] *On pain to be found false and recreant*
 
 See also: false (adj.) 2--8, (n.), (adv.)
-

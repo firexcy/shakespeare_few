@@ -17,4 +17,3 @@ assure, promise, guarantee, confirm
 [TNK III.vi.68](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=6&WorkId=37#251373) \[Palamon to Arcite\] *I'll warrant thee I'll strike home*
 
 See also: warrant (n.) 2--6, (n.)
-

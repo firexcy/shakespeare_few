@@ -11,4 +11,3 @@ perhaps, maybe, very likely
 [E3 V.i.22](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=1&WorkId=14#165284) \[Edward to Calais Citizens\] *You, peradventure, are but servile grooms*
 
 [KJ V.vi.31](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=6&WorkId=15#168709) \[Hubert to Bastard, of King John\] *The King / Yet speaks, and peradventure may recover*
-

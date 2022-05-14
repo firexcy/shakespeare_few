@@ -15,4 +15,3 @@ reviewed_on:  "N/A"
 [Oth III.iii.165](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=3&WorkId=9#143668) \[Iago to Othello\] *That cuckold lives in bliss / Who certain of his fate loves not his wronger*
 
 See also: cuckold (v.)
-

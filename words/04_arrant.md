@@ -11,4 +11,3 @@ downright, absolute, unmitigated
 [H5 IV.vii.2](https://www.shakespeareswords.com/Public/Play.aspx?Act=4&Scene=7&WorkId=38#256411) \[Fluellen to Gower, of the French behaviour\] *'tis as arrant a piece of knavery ... as can be offert*
 
 [KL II.iv.50](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=4&WorkId=11#153108) \[Fool to Lear\] *Fortune, that arrant whore*
-

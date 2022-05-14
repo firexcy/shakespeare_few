@@ -21,4 +21,3 @@ reviewed_on:  "N/A"
 [1H6 IV.vii.23](https://www.shakespeareswords.com/Public/Play.aspx?Act=4&Scene=7&WorkId=25#203658) \[Talbot to his dead son\] *O thou whose wounds become hard-favoured Death*
 
 See also: become (v.) 3--5
-

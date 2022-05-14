@@ -15,4 +15,3 @@ fine, excellent, splendid, impressive
 [Tem III.ii.97](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=2&WorkId=12#158098) \[Caliban to Stephano, of Prospero\] *He has brave utensils*
 
 See also: brave (adj.) 2--3, (n.), (v.)
-

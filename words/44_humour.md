@@ -15,4 +15,3 @@ mood, disposition, frame of mind, temperament \[as determined by bodily fluids\]
 [TNK V.ii.36](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=2&WorkId=37#252691) \[Doctor to Wooer, of the Gaoler's Daughter\] *The melancholy humour that infects her*
 
 See also: humour (n.) 2--6,(v.); [HUMOURS](https://www.shakespeareswords.com/Public/LanguageCompanion/ThemesAndTopics.aspx?TopicId=22)
-

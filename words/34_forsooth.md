@@ -13,4 +13,3 @@ in truth, certainly, truly, indeed
 [MND III.ii.230](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=2&WorkId=4#126984) \[Helena to Hermia\] *wherefore doth Lysander … tender me forsooth affection*
 
 [MW III.ii.5](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=2&WorkId=29#218024) \[Robin to Mistress Page\] *I had rather, forsooth, go before you like a man*
-

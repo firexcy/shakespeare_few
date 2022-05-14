@@ -13,4 +13,3 @@ reveal, show, make known
 [TN II.v.154](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=5&WorkId=21#187783) \[Malvolio to himself\] *Daylight and champain discovers not more!*
 
 See also: discover (v.) 2--6
-

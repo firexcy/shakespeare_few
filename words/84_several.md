@@ -17,4 +17,3 @@ separate, different, distinct
 [MND V.i.407](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=1&WorkId=4#128254) \[Oberon to all\] *Every fairy take his gait, / And each several chamber bless*
 
 See also: several (adj.) 2--3, (n.)
-

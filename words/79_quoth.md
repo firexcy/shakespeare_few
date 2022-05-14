@@ -13,4 +13,3 @@ said
 [CE II.i.62](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=1&WorkId=1#112689) \[Dromio of Ephesus to Adriana\] *‘’Tis dinner-time,’ quoth I*
 
 [1H4 II.i.49](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=1&WorkId=33#233193) \[Chamberlain to Gadshill\] *At hand, quoth pick-purse*
-

@@ -13,4 +13,3 @@ battle-flags, ensigns, standards, banners
 [1H6 IV.ii.56](https://www.shakespeareswords.com/Public/Play.aspx?Act=4&Scene=2&WorkId=25#203357)\[Talbot to all\] *God and Saint George ... / Prosper our colours in this dangerous fight!*
 
 See also: colours (n.) 2--4
-

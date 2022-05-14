@@ -15,4 +15,3 @@ reviewed_on:  "N/A"
 [E3 III.i.182](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=1&WorkId=14#163926) \[Mariner to King John, ofthe navies\] *we perforce were fain to give them way*
 
 [R2 V.ii.35](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=2&WorkId=22#192733) \[York to Duchess of York\] *The hearts of men, they must perforce have melted*
-

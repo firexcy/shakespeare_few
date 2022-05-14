@@ -11,4 +11,3 @@ reviewed_on:  "N/A"
 [Ham IV.vii.190](https://www.shakespeareswords.com/Public/Play.aspx?Act=4&Scene=7&WorkId=2#119241) \[Laertes to Claudius\] *I have a speech o'fire that fain would blaze*
 
 See also: fain (adj.), (v.)
-

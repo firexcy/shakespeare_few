@@ -11,4 +11,3 @@ lack, need, be without
 [1H6 I.i.143](https://www.shakespeareswords.com/Public/Play.aspx?Act=1&Scene=1&WorkId=25#201045) \[Bedford to Third Messenger, of Talbot\] *such a worthy leader, wanting aid*
 
 See also: want (v.) 2--4, (n.)
-

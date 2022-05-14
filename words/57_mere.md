@@ -13,4 +13,3 @@ complete, total, absolute, utter
 [TS induction.1.21](https://www.shakespeareswords.com/Public/Play.aspx?Act=0&Scene=0&WorkId=24#197122) \[First Huntsman to Lord, of a hound following a scent\] *He cried upon it at the merest loss*
 
 See also: mere (adj.) 2, (adv.)
-

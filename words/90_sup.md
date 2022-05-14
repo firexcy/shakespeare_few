@@ -13,4 +13,3 @@ have supper
 [Oth V.i.117](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=1&WorkId=9#145695) \[Iago to Emilia\] *Go know of Cassio where he supped tonight*
 
 See also: sup (n.) 2--3
-

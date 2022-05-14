@@ -15,4 +15,3 @@ get on, manage, do, cope
 [TS induction.2.100](https://www.shakespeareswords.com/Public/Play.aspx?Act=0&Scene=0&WorkId=24#197401) \[Sly to Page dressed as Sly’s wife\] *I fare well*
 
 See also: fare (v.) 2, (n.)
-

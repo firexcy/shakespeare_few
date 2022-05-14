@@ -11,4 +11,3 @@ face, countenance
 [RJ I.iv.29](https://www.shakespeareswords.com/Public/Play.aspx?Act=1&Scene=4&WorkId=32#228881) \[Mercutio to Romeo\] *Give me a case to put my visage in*
 
 *see also* visage (n.) 2
-

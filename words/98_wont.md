@@ -6,7 +6,7 @@ reviewed_on:  "N/A"
 
 be accustomed, used \[to\], be in the habit of
 
-## [[The Comedy of Errors]] [CE II.ii.162](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=2&WorkId=1#112981) 
+## [[The Comedy of Errors]] [CE II.ii.162](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=2&WorkId=1#112981)
 
 **Luciana to Antipholus of Syracuse** *Fie, brother, how the world is changed with you.*
 
@@ -16,7 +16,7 @@ be accustomed, used \[to\], be in the habit of
 
 你从什么时候开始==这般==对待我姐姐？
 
-## [[The Comedy of Errors]] [CE IV.iv.35](https://www.shakespeareswords.com/Public/Play.aspx?Act=4&Scene=4&WorkId=1#114007) 
+## [[The Comedy of Errors]] [CE IV.iv.35](https://www.shakespeareswords.com/Public/Play.aspx?Act=4&Scene=4&WorkId=1#114007)
 
 **Dromio of Ephesus to Antipholus of Ephesus, of beating** I have served him from the
 
@@ -30,13 +30,13 @@ his hands for my service but blows. […]
 
 我的肩上扛着他打下的瘀伤，就像乞丐婆扛着她的孩子。
 
-## [[Henry VI, Part 1]] [1H6 I.ii.14](https://www.shakespeareswords.com/Public/Play.aspx?Act=1&Scene=2&WorkId=25#201112) 
+## [[Henry VI, Part 1]] [1H6 I.ii.14](https://www.shakespeareswords.com/Public/Play.aspx?Act=1&Scene=2&WorkId=25#201112)
 
 **Regnier to all** *Talbot is taken, whom we ==wont== to fear*
 
 **雷尼耶** 我们==平素==忌惮的塔尔博特已被俘虏
 
-## [[Henry VI, Part 3]] [3H6 II.vi.76](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=6&WorkId=31#225862) 
+## [[Henry VI, Part 3]] [3H6 II.vi.76](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=6&WorkId=31#225862)
 
 **Warwick to dead Clifford** *They mock thee, Clifford; swear as thou wast ==wont==.*
 
@@ -48,14 +48,12 @@ See also: wont (n.)
 
 From [Merriam-Webster](https://www.merriam-webster.com/dictionary/wont)
 
-
 \\ ˈwȯnt, ˈwōnt also ˈwənt, ˈwänt \\
 
-1 : accustomed, used 
+1 : accustomed, used
 
 // got up early as he is wont to do
 
-     
 First Known Use: before the 12th century, in the meaning defined at sense 1
 
 History and Etymology: Middle English woned, wont, from past participle of wonen to dwell, be used to, from Old English wunian; akin to Old High German wonēn to dwell, be used to, Sanskrit vanoti he strives for — more at win

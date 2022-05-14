@@ -11,4 +11,3 @@ badly, adversely, unfavourably
 [R2 V.iii.98](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=3&WorkId=22#193012) \[York to King Henry\] *Ill* *mayst thou thrive if thou grant any grace*
 
 See also: ill (adv.) 2, (adj.)
-

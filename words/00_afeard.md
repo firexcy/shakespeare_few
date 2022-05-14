@@ -6,13 +6,13 @@ reviewed_on:  "N/A"
 
 afraid, frightened, scared
 
-## [[Cymbeline]] [Cym IV.ii.94](https://www.shakespeareswords.com/Public/Play.aspx?Act=4&Scene=2&WorkId=7#139609) 
+## [[Cymbeline]] [Cym IV.ii.94](https://www.shakespeareswords.com/Public/Play.aspx?Act=4&Scene=2&WorkId=7#139609)
 
-**Cloten to Guiderius** *Art not ==afeard==?* 
+**Cloten to Guiderius** *Art not ==afeard==?*
 
 **克洛顿对吉德律斯** 你不==害怕==？
 
-## [[Henry VI, Part 1]] [1H6 IV.vii.86](https://www.shakespeareswords.com/Public/Play.aspx?Act=4&Scene=7&WorkId=25#203738) 
+## [[Henry VI, Part 1]] [1H6 IV.vii.86](https://www.shakespeareswords.com/Public/Play.aspx?Act=4&Scene=7&WorkId=25#203738)
 
 **Lucy to all** *I'll bear them hence; but from their ashes shall be reared*
 
@@ -22,7 +22,7 @@ afraid, frightened, scared
 
 会生出一只凤凰，令全法兰西==不可终日==。
 
-## [[Macbeth]] [Mac I.iii.95](https://www.shakespeareswords.com/Public/Play.aspx?Act=1&Scene=3&WorkId=13#159504) 
+## [[Macbeth]] [Mac I.iii.95](https://www.shakespeareswords.com/Public/Play.aspx?Act=1&Scene=3&WorkId=13#159504)
 
 **Ross to Macbeth** *He finds thee in the stout Norweyan ranks*
 
@@ -36,7 +36,7 @@ afraid, frightened, scared
 
 毫无==怯意==。
 
-## [[A Midsummer Night’s Dream]] [MND III.i.107](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=1&WorkId=4#126569) 
+## [[A Midsummer Night’s Dream]] [MND III.i.107](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=1&WorkId=4#126569)
 
 **Bottom alone, of his companions** *Why do they run away? This is a knavery of them to make me ==afeard==*
 

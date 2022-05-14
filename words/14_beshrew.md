@@ -15,4 +15,3 @@ curse, devil take, evil befall
 [Oth IV.iii.77](https://www.shakespeareswords.com/Public/Play.aspx?Act=4&Scene=3&WorkId=9#145446) \[Desdemona to Emilia\] *Beshrew me, if I would do such a wrong*
 
 See also: beshrew (v.) 2
-

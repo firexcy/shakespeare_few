@@ -17,4 +17,3 @@ reviewed_on:  "N/A"
 [AYL V.i.11](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=1&WorkId=26#207616) \[Touchstone to himself\] *we that have good wits have much to answer for*
 
 See also: wit (n.) 3--6, (v.)
-

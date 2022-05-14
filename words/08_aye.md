@@ -14,12 +14,11 @@ always, ever, for eternity
 
 **贝拉律斯** 不得已到这里来过这种艰苦的生活，==永远==丧失你们生来应有的高贵
 
-### [R2 V.ii.45](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=2&WorkId=22#192747) 
+### [R2 V.ii.45](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=2&WorkId=22#192747)
 
 **York to Duchess of York, of Bolingbroke** *To Bolingbroke are we sworn subjects now, / Whose state and honour I for ==aye== allow*
 
 **约克** 对波林勃洛克，我们要称臣效忠，/ 对其显贵之位，要==永远==尊崇。
-
 
 -----
 

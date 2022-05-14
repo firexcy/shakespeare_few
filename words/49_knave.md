@@ -11,4 +11,3 @@ scoundrel, rascal, rogue
 [1H4 II.ii.83](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=2&WorkId=33#233386) \[Falstaff to Travellers\] *bacon-fed knaves*
 
 See also: knave (n.) 2--3
-

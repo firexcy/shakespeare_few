@@ -13,4 +13,3 @@ past form bethought: call to mind, think about, consider, reflect
 [TN III.iv.289](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=4&WorkId=21#188712) \[Sir Toby to Viola as Cesario, of Sir Andrew\] *he hath better bethought him of his quarrel*
 
 See also: bethink (v.) 2--4
-

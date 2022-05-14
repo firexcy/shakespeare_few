@@ -11,4 +11,3 @@ likely, probable / probably
 [Ham II.ii.348](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=2&WorkId=2#116710) \[Hamlet to Rosencrantz\] *it is most like*
 
 See also: like (adv.) 2--4,(n.), (adj.), (v.)
-

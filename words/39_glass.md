@@ -13,4 +13,3 @@ mirror, looking-glass
 [Ham III.i.154](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=1&WorkId=2#117240) \[Ophelia alone, of Hamlet\] *The glass of fashion*
 
 See also: glass (n.) 2--4,(v.)
-

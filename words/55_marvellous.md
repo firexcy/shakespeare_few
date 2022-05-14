@@ -6,7 +6,7 @@ reviewed_on:  "N/A"
 
 very, extremely, exceedingly
 
-### [[A Midsummer Night’s Dream]] [MND III.i.2](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=1&WorkId=4#126420) 
+### [[A Midsummer Night’s Dream]] [MND III.i.2](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=1&WorkId=4#126420)
 
 **Quince to all** *Pat, pat; here’s a ==marvellous== convenient place for our rehearsal*
 
@@ -14,7 +14,7 @@ very, extremely, exceedingly
 
 (pat: spot on, on the dot, very timely)
 
-### [[Richard III]] [R3 III.v.1](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=5&WorkId=6#134269) 
+### [[Richard III]] [R3 III.v.1](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=5&WorkId=6#134269)
 
 **stage direction** *Enter Richard ... and Buckingham, in rotten armour, ==marvellous== ill-favoured*
 
@@ -24,6 +24,6 @@ very, extremely, exceedingly
 
 From OED
 
-ORIGIN Middle English: from Old French *merveillus*, from *merveille* 
+ORIGIN Middle English: from Old French *merveillus*, from *merveille*
 
 (see marvel: Middle English (as a noun): from Old French *merveille*, from late Latin *mirabilia*, neuter plural of Latin *mirabilis* ‘wonderful’, from *mirari* ‘wonder at’.)

@@ -15,4 +15,3 @@ own, possess, have
 [R3 IV.iv.142](https://www.shakespeareswords.com/Public/Play.aspx?Act=4&Scene=4&WorkId=6#135339) \[Queen Elizabeth to King Richard\] *The slaughter of the prince that owed that crown*
 
 See also: owe (n.) 2--3
-

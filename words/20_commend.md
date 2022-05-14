@@ -15,4 +15,3 @@ convey greetings, present kind regards<
 [TG II.iv.121](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=4&WorkId=5#129448) \[Proteus to Valentine\] *Your friends ... have them much commended*
 
 See also: commend (v.) 2--6,(n.)
-

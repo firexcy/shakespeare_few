@@ -17,4 +17,3 @@ well-born, honourable, noble
 [R2 II.iii.45](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=3&WorkId=22#191227) \[Bolingbroke to Percy\] *I thank thee, gentle Percy*
 
 See also: gentle (adj.) 2--5,(n.), (adv.)
-

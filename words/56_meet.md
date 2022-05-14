@@ -17,4 +17,3 @@ fit, suitable, right, proper
 [Mac V.i.16](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=1&WorkId=13#161907) \[Doctor to Gentlewoman, of telling him what she has seen\] *’tis most meet you should*
 
 See also: meet (adj.) 2, (v.), (adv.)
-

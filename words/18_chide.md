@@ -13,4 +13,3 @@ past form chid: scold, rebuke, reprove
 [AYL IV.i.32](https://www.shakespeareswords.com/Public/Play.aspx?Act=4&Scene=1&WorkId=26#207085) \[Rosalind to Jaques\] *almost chide God for making you that countenance you are*
 
 See also: chide (v.) 2--4
-

@@ -13,4 +13,3 @@ beg, entreat, request
 [1H6 II.iii.12](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=3&WorkId=25#201907) \[Messenger to Countess\] *acording as your ladyship desired, / By message craved, so is Lord Talbot come*
 
 See also: crave (v.) 2--3
-

@@ -15,4 +15,3 @@ dress, clothing, costume
 [TG II.vii.39](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=7&WorkId=5#129752) \[Lucetta to Julia\] *in what habit will you go along?*
 
 See also: habit (n.) 2--4
-

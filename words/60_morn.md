@@ -13,4 +13,3 @@ morning, dawn
 [MM II.iv.71](https://www.shakespeareswords.com/Public/Play.aspx?Act=2&Scene=4&WorkId=27#209714) \[Isabella to Angelo\] *my morn prayer*
 
 [Tem V.i.307](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=1&WorkId=12#159199) \[Prospero to Alonso\] *In the morn, / I’ll bring you to your ship*
-

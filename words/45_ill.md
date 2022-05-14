@@ -11,4 +11,3 @@ bad, adverse, unfavourable
 [R2 III.iv.80](https://www.shakespeareswords.com/Public/Play.aspx?Act=3&Scene=4&WorkId=22#192096) \[Queen Isabel to Gardener\] *how / Camest thou by this ill tidings?*
 
 See also: ill (adj.) 2--6,(v.), (adv.)
-

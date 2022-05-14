@@ -13,4 +13,3 @@ prattle, chatter, blather
 [Ham V.i.276](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=1&WorkId=2#119656) \[Hamlet to Laertes\] *if thou prate of mountains*
 
 See also: prate (n.)
-

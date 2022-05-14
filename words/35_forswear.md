@@ -27,4 +27,3 @@ reviewed_on:  "N/A"
 [MA V.i.162](https://www.shakespeareswords.com/Public/Play.aspx?Act=5&Scene=1&WorkId=23#196485) \[Don Pedro to Benedick, quoting Beatrice on Benedick\] *he swore a thing to me on Monday night, which he forswore on Tuesday morning*
 
 [RJ I.v.52](https://www.shakespeareswords.com/Public/Play.aspx?Act=1&Scene=5&WorkId=32#229068) \[Romeo to himself, of seeing Juliet\] *Did my heart love till now? Forswear it, sight!*
-
