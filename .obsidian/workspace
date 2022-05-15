@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/89_suit.md",
+            "file": "words/34_forsooth.md",
             "mode": "preview",
             "source": true
           }
@@ -33,8 +33,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/69_perchance.md",
-            "mode": "source",
+            "file": "words/45_ill.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -45,7 +45,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/24_course.md",
+            "file": "words/01_anon.md",
             "mode": "preview",
             "source": true
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DASHBD.md",
+                "file": "words/34_forsooth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1269662480dd4901",
+  "active": "42946b3edce0d0a6",
   "lastOpenFiles": [
-    "DASHBD.md",
-    "works/The Winter’s Tale.md",
-    "words/24_course.md",
-    "words/69_perchance.md",
-    "works/King John.md",
-    "words/89_suit.md",
-    "works/Coriolanus.md",
-    "words/38_gentle.md",
-    "words/03_apparel.md",
-    "words/80_rail.md"
+    "words/34_forsooth.md",
+    "words/45_ill.md",
+    "works/Antony and Cleopatra.md",
+    "words/01_anon.md",
+    "works/Henry IV, Part 1.md",
+    "words/02_apace.md",
+    "README.md",
+    "words/07_avaunt.md",
+    "works/All’s Well That Ends Well.md",
+    "words/99_wot.md"
   ]
 }
