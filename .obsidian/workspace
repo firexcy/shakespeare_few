@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/34_forsooth.md",
+            "file": "words/90_sup.md",
             "mode": "preview",
             "source": true
           }
@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/45_ill.md",
+            "file": "words/40_habit.md",
             "mode": "preview",
             "source": true
           }
@@ -45,7 +45,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/01_anon.md",
+            "file": "words/07_avaunt.md",
             "mode": "preview",
             "source": true
           }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "words/34_forsooth.md",
+                "file": "words/07_avaunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "42946b3edce0d0a6",
+  "active": "65c461b310c237ca",
   "lastOpenFiles": [
-    "words/34_forsooth.md",
-    "words/45_ill.md",
-    "works/Antony and Cleopatra.md",
-    "words/01_anon.md",
-    "works/Henry IV, Part 1.md",
-    "words/02_apace.md",
-    "README.md",
     "words/07_avaunt.md",
-    "works/All’s Well That Ends Well.md",
-    "words/99_wot.md"
+    "words/40_habit.md",
+    "works/The Two Gentlemen of Verona.md",
+    "words/90_sup.md",
+    "works/Henry V.md",
+    "words/01_anon.md",
+    "words/45_ill.md",
+    "words/34_forsooth.md",
+    "works/Antony and Cleopatra.md",
+    "works/Henry IV, Part 1.md"
   ]
 }
