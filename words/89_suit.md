@@ -20,7 +20,7 @@ formal request, entreaty, petition
 
 -----
 
-From OED
+Modern usage
 
 *literary* a petition or entreaty made to a person in authority
 

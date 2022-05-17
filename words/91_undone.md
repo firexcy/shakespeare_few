@@ -26,7 +26,7 @@ ruined, destroyed, brought down
 
 -----
 
-From OED
+Modern usage
 
 formal or humorous (of a person) ruined by a disastrous or devastating setback or reverse.
 

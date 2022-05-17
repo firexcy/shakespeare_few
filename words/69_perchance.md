@@ -20,7 +20,7 @@ perhaps, maybe
 
 -----
 
-From OED
+Modern usage
 
 ORIGIN Middle English: from Old French *par cheance* ‘by chance’.
 

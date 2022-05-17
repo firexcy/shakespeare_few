@@ -22,7 +22,7 @@ always, ever, for eternity
 
 -----
 
-From OED
+Modern usage
 
 adverb *archaic* or *Scottish* always or still.
 

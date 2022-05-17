@@ -44,7 +44,7 @@ afraid, frightened, scared
 
 -----
 
-From [Merriam-Webster](https://www.merriam-webster.com/dictionary/afeard)
+Modern usage
 
 \\ ə-ˈfird  \\
 

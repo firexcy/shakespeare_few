@@ -34,7 +34,7 @@ See also: place (n.) 2--6, (v.)
 
 -----
 
-From [Merriam-Webster](https://www.merriam-webster.com/dictionary/place)
+Modern usage
 
 5 relative position in a scale or series: such as
 

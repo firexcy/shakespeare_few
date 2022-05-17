@@ -36,7 +36,7 @@ frighten, scare, terrify
 
 -----
 
-From OED
+Modern usage
 
 noun a sudden intense feeling of fear
 

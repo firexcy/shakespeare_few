@@ -38,6 +38,6 @@ same, similar, alike, equal
 
 -----
 
-From OED
+Modern usage
 
 ORIGIN Old English *līcian* ‘be pleasing’, of Germanic origin; related to Dutch *lijken*.

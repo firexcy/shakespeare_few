@@ -32,7 +32,7 @@ task, service, duty, responsibility
 
 -----
 
-From OED
+Modern usage
 
 2 a position of authority or service, typically one of a public nature
 

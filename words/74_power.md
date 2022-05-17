@@ -34,7 +34,7 @@ armed force, troops, host, army
 
 -----
 
-From OED
+Modern usage
 
 2 the capacity or ability to direct or influence the behavior of others or the course of events
 

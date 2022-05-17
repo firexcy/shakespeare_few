@@ -20,7 +20,7 @@ soon, shortly, presently
 
 -----
 
-From OED
+Modern usage
 
 *archaic* or *informal* soon; shortly: I'll see you anon.
 

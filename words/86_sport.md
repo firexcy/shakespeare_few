@@ -40,7 +40,7 @@ recreation, amusement, entertainment
 
 -----
 
-From OED
+Modern usage
 
 1 an activity involving physical exertion and skill in which an individual or team competes against another or others for entertainment
 

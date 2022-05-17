@@ -18,7 +18,7 @@ clothes, clothing, dress
 
 -----
 
-From OED
+Modern usage
 
 clothing
 

@@ -32,7 +32,7 @@ it seems / seemed to me
 
 -----
 
-From OED
+Modern usage
 
 *archaic or humorousit* seems to me
 

@@ -20,7 +20,7 @@ course of action, way of proceeding
 
 -----
 
-From OED
+Modern usage
 
 *[in singular]* the route or direction followed by a ship, aircraft, road, or river
 

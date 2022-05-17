@@ -32,7 +32,7 @@ uniform, costume, special clothing
 
 -----
 
-From [Merriam-Webster](https://www.merriam-webster.com/dictionary/livery)
+Modern usage
 
 liv·ery | \\ ˈli-və-rē, ˈliv-rē \\
 

@@ -46,7 +46,7 @@ See also: wont (n.)
 
 -----
 
-From [Merriam-Webster](https://www.merriam-webster.com/dictionary/wont)
+Modern usage
 
 \\ ˈwȯnt, ˈwōnt also ˈwənt, ˈwänt \\
 

@@ -28,7 +28,7 @@ have supper
 
 -----
 
-From OED
+Modern usage
 
 *\[with object\] dated or Northern English* take (drink or liquid food) by sips or spoonfuls
 

@@ -24,7 +24,7 @@ quickly, speedily, at a great rate
 
 -----
 
-From OED
+Modern usage
 
 1 *literary* swiftly; quickly
 

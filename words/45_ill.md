@@ -20,7 +20,7 @@ bad, adverse, unfavourable
 
 -----
 
-From OED
+Modern usage
 
 \[attributive\] poor in quality
 - harmful

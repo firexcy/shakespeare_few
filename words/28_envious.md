@@ -34,7 +34,7 @@ See also: envy (n.)
 
 -----
 
-From [Merriam-Webster](https://www.merriam-webster.com/dictionary/envious)
+Modern usage
 
 archaic
 

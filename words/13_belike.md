@@ -22,7 +22,7 @@ probably, presumably, perhaps, so it seems
 
 -----
 
-From OED
+Modern usage
 
 *archaic* probably; perhaps
 

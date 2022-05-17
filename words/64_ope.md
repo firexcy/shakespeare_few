@@ -26,7 +26,7 @@ open
 
 -----
 
-From OED
+Modern usage
 
 ope *archaic* or *literary*
 

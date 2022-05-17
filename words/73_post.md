@@ -34,7 +34,7 @@ See also: post (n.) 2--3, (v.), (adv.)
 
 -----
 
-From [Merriam-Webster](https://www.merriam-webster.com/dictionary/post)
+Modern usage
 
 post
 

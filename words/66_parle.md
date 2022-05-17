@@ -30,7 +30,7 @@ negotiation, meeting \[between enemies under a truce, to discuss terms\]
 
 -----
 
-From OED
+Modern usage
 
 a conference between opposing sides in a dispute, especially a discussion of terms for an armistice
 

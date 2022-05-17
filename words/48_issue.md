@@ -46,7 +46,7 @@ reviewed_on:  "N/A"
 
 -----
 
-From OED
+Modern usage
 
 3 a result or outcome of something
 

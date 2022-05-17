@@ -20,7 +20,7 @@ should like just as much
 
 -----
 
-From OED
+Modern usage
 
 *archaic* as happily; as gladly
 

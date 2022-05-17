@@ -36,7 +36,7 @@ in truth, certainly, truly, indeed
 
 -----
 
-From OED
+Modern usage
 
 \[sentence adverb\] *archaic* or *humorous*
 

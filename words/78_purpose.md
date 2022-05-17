@@ -28,7 +28,7 @@ See also: purpose (n.) 2--3, (v.)
 
 -----
 
-From [Merriam-Webster](https://www.merriam-webster.com/dictionary/purpose)
+Modern usage
 
 1a : something set up as an object or end to be attained : intention
 

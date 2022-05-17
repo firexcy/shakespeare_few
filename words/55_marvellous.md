@@ -22,7 +22,7 @@ very, extremely, exceedingly
 
 -----
 
-From OED
+Modern usage
 
 ORIGIN Middle English: from Old French *merveillus*, from *merveille*
 

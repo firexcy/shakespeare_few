@@ -26,7 +26,7 @@ agreeable, willing, ready
 
 -----
 
-From OED
+Modern usage
 
 in a state of peaceful happiness
 

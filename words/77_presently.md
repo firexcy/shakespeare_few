@@ -22,7 +22,7 @@ immediately, instantly, at once
 
 -----
 
-From OED
+Modern usage
 
 1 at the present time; now
 

@@ -38,7 +38,7 @@ learn, know, be told
 
 -----
 
-From OED
+Modern usage
 
 1 *archaic* have knowledge
 

@@ -28,7 +28,7 @@ begone, go away, be off
 
 -----
 
-From OED
+Modern usage
 
 exclamation *archaic* go away
 

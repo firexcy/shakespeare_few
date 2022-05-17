@@ -42,7 +42,7 @@ dress, clothing, costume
 
 -----
 
-From OED
+Modern usage
 
 a long, loose garment worn by a member of a religious order or congregation
 

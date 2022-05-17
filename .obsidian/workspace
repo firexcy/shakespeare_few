@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1269662480dd4901",
+        "id": "498c0699e7529e62",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -16,37 +16,37 @@
         }
       },
       {
-        "id": "42946b3edce0d0a6",
+        "id": "7b8903ca6718bf6a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/90_sup.md",
-            "mode": "preview",
+            "file": "words/68_peradventure.md",
+            "mode": "source",
             "source": true
           }
         }
       },
       {
-        "id": "88e55c083d02ff0a",
+        "id": "35a267d4e326d84b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/40_habit.md",
-            "mode": "preview",
+            "file": "words/56_meet.md",
+            "mode": "source",
             "source": true
           }
         }
       },
       {
-        "id": "65c461b310c237ca",
+        "id": "c08a9c6adf037d53",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/07_avaunt.md",
-            "mode": "preview",
+            "file": "words/29_fain.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "words/07_avaunt.md",
+                "file": "words/68_peradventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "65c461b310c237ca",
+  "active": "7b8903ca6718bf6a",
   "lastOpenFiles": [
-    "words/07_avaunt.md",
+    "words/68_peradventure.md",
+    "DASHBD.md",
+    "words/56_meet.md",
+    "words/29_fain.md",
     "words/40_habit.md",
-    "works/The Two Gentlemen of Verona.md",
     "words/90_sup.md",
+    "words/07_avaunt.md",
+    "works/The Two Gentlemen of Verona.md",
     "works/Henry V.md",
-    "words/01_anon.md",
-    "words/45_ill.md",
-    "words/34_forsooth.md",
-    "works/Antony and Cleopatra.md",
-    "works/Henry IV, Part 1.md"
+    "words/01_anon.md"
   ]
 }
