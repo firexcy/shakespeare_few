@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "498c0699e7529e62",
+        "id": "a1edb0e9a6632c97",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -16,37 +16,37 @@
         }
       },
       {
-        "id": "7b8903ca6718bf6a",
+        "id": "1ec35b6f201eea15",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/68_peradventure.md",
-            "mode": "source",
+            "file": "words/92_visage.md",
+            "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "35a267d4e326d84b",
+        "id": "6b8a17be9b4ad9b4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/56_meet.md",
-            "mode": "source",
+            "file": "words/44_humour.md",
+            "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "c08a9c6adf037d53",
+        "id": "9e05f2abb7c22ad2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/29_fain.md",
-            "mode": "source",
+            "file": "words/38_gentle.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "words/68_peradventure.md",
+                "file": "words/92_visage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7b8903ca6718bf6a",
+  "active": "1ec35b6f201eea15",
   "lastOpenFiles": [
-    "words/68_peradventure.md",
+    "words/92_visage.md",
+    "works/The Merchant of Venice.md",
+    "words/44_humour.md",
+    "words/38_gentle.md",
     "DASHBD.md",
     "words/56_meet.md",
     "words/29_fain.md",
+    "words/68_peradventure.md",
     "words/40_habit.md",
-    "words/90_sup.md",
-    "words/07_avaunt.md",
-    "works/The Two Gentlemen of Verona.md",
-    "works/Henry V.md",
-    "words/01_anon.md"
+    "words/90_sup.md"
   ]
 }
