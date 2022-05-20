@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DASHBD.md",
+            "file": "words/17_brow.md",
             "mode": "preview",
             "source": true
           }
@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/87_still.md",
-            "mode": "source",
+            "file": "words/70_perforce.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -33,19 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/42_heavy.md",
-            "mode": "source",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "721d6da2db068ba5",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "words/39_glass.md",
+            "file": "words/81_remembrance.md",
             "mode": "preview",
             "source": true
           }
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "words/87_still.md",
+                "file": "words/81_remembrance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f3860fa30d7a5cc8",
+  "active": "d136dfd6af54097e",
   "lastOpenFiles": [
-    "words/87_still.md",
+    "words/81_remembrance.md",
+    "words/70_perforce.md",
+    "words/17_brow.md",
+    "words/64_ope.md",
     "words/42_heavy.md",
+    "works/The Comedy of Errors.md",
     "words/39_glass.md",
-    "DASHBD.md",
-    "WDLIST.md",
-    "words/34_forsooth.md",
-    "words/78_purpose.md",
-    "words/59_methinks.md",
-    "words/38_gentle.md",
-    "words/44_humour.md"
+    "words/51_like.md",
+    "words/44_humour.md",
+    "words/96_wench.md"
   ]
 }
