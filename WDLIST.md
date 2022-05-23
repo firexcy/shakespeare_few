@@ -7,5 +7,5 @@ From [ShakespearesWords.com](https://www.shakespeareswords.com/Public/LanguageCo
 ```dataview
 table title as "Title", learned_on as "Learned On", reviewed_on as "Last Reviewed On"
 from "words"
-sort title
+sort learned_on
 ````````````
