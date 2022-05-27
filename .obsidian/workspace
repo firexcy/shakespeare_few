@@ -4,36 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "3f49108f681c0a7c",
+        "id": "5b3f03534ea6cf1b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/82_sad.md",
+            "file": "words/22_corse.md",
             "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "4782e123d0757c4d",
+        "id": "71917c242de2761e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/65_owe.md",
+            "file": "words/25_crave.md",
             "mode": "preview",
             "source": true
           }
         }
       },
       {
-        "id": "37cb7ee732a0c17a",
+        "id": "f04341f4163ebb78",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/30_false.md",
+            "file": "words/32_field.md",
             "mode": "preview",
             "source": true
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "words/30_false.md",
+                "file": "words/22_corse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37cb7ee732a0c17a",
+  "active": "5b3f03534ea6cf1b",
   "lastOpenFiles": [
-    "words/30_false.md",
-    "words/65_owe.md",
-    "words/82_sad.md",
+    "words/22_corse.md",
+    "words/25_crave.md",
+    "words/32_field.md",
     "DASHBD.md",
-    "words/50_lief.md",
-    "words/99_wot.md",
-    "words/00_afeard.md",
-    "words/96_wench.md",
-    "WDLIST.md",
-    "words/23_counterfeit.md"
+    "words/73_post.md",
+    "works/Macbeth.md",
+    "works/Measure for Measure.md",
+    "works/Henry V.md",
+    "words/55_marvellous.md",
+    "words/40_habit.md"
   ]
 }
