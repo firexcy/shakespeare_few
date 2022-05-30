@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/35_forswear.md",
-            "mode": "source",
+            "file": "words/84_several.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/37_gage.md",
+            "file": "words/76_present.md",
             "mode": "preview",
             "source": true
           }
@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/09_base.md",
+            "file": "words/06_aught.md",
             "mode": "preview",
             "source": true
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "words/35_forswear.md",
+                "file": "words/84_several.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "5b3f03534ea6cf1b",
   "lastOpenFiles": [
-    "words/35_forswear.md",
+    "words/84_several.md",
+    "words/06_aught.md",
+    "words/76_present.md",
+    "words/78_purpose.md",
+    "words/83_scape.md",
+    "words/79_quoth.md",
     "words/09_base.md",
+    "words/38_gentle.md",
     "words/37_gage.md",
-    "WDLIST.md",
-    "DASHBD.md",
-    "works/Pericles.md",
-    "words/97_wit.md",
-    "works/Coriolanus.md",
-    "words/07_avaunt.md",
-    "words/26_cuckold.md"
+    "words/25_crave.md"
   ]
 }
