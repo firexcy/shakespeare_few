@@ -1,6 +1,6 @@
 ---
 title:        "become (v.)"
-learned_on:   "N/A"
+learned_on:   "2022-06-01"
 reviewed_on:  "N/A"
 ---
 
