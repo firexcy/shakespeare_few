@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/16_brave.md",
+            "file": "words/41_haply.md",
             "mode": "preview",
             "source": true
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/67_pate.md",
+            "file": "words/54_mark.md",
             "mode": "preview",
             "source": true
           }
@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/60_morn.md",
+            "file": "words/14_beshrew.md",
             "mode": "preview",
             "source": true
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "words/60_morn.md",
+                "file": "words/14_beshrew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "afbf753d15415b10",
   "lastOpenFiles": [
-    "words/60_morn.md",
+    "words/14_beshrew.md",
+    "words/54_mark.md",
+    "words/41_haply.md",
+    "WDLIST.md",
+    "words/53_livery.md",
+    "words/65_owe.md",
+    "works/The Two Gentlemen of Verona.md",
     "words/67_pate.md",
-    "words/16_brave.md",
-    "words/13_belike.md",
-    "words/77_presently.md",
-    "words/79_quoth.md",
-    "works/King Lear.md",
-    "works/Hamlet.md",
-    "words/92_visage.md",
-    "words/76_present.md"
+    "words/20_commend.md",
+    "words/23_counterfeit.md"
   ]
 }
