@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/41_haply.md",
+            "file": "words/58_merely.md",
             "mode": "preview",
             "source": true
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/54_mark.md",
+            "file": "words/93_voice.md",
             "mode": "preview",
             "source": true
           }
@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/14_beshrew.md",
+            "file": "words/63_oft.md",
             "mode": "preview",
             "source": true
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "words/14_beshrew.md",
+                "file": "words/63_oft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "afbf753d15415b10",
   "lastOpenFiles": [
-    "words/14_beshrew.md",
-    "words/54_mark.md",
-    "words/41_haply.md",
+    "words/63_oft.md",
+    "words/58_merely.md",
+    "words/93_voice.md",
     "WDLIST.md",
-    "words/53_livery.md",
-    "words/65_owe.md",
-    "works/The Two Gentlemen of Verona.md",
-    "words/67_pate.md",
-    "words/20_commend.md",
-    "words/23_counterfeit.md"
+    "words/45_ill.md",
+    "words/21_content.md",
+    "words/17_brow.md",
+    "works/The Comedy of Errors.md",
+    "words/81_remembrance.md",
+    "works/Measure for Measure.md"
   ]
 }
