@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/58_merely.md",
+            "file": "words/75_prate.md",
             "mode": "preview",
             "source": true
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/93_voice.md",
+            "file": "words/88_straight.md",
             "mode": "preview",
             "source": true
           }
@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "words/63_oft.md",
+            "file": "words/57_mere.md",
             "mode": "preview",
             "source": true
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "words/63_oft.md",
+                "file": "words/57_mere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,15 +114,15 @@
   },
   "active": "afbf753d15415b10",
   "lastOpenFiles": [
-    "words/63_oft.md",
-    "words/58_merely.md",
-    "words/93_voice.md",
-    "WDLIST.md",
-    "words/45_ill.md",
-    "words/21_content.md",
-    "words/17_brow.md",
-    "works/The Comedy of Errors.md",
-    "words/81_remembrance.md",
-    "works/Measure for Measure.md"
+    "words/57_mere.md",
+    "words/88_straight.md",
+    "words/75_prate.md",
+    "words/76_present.md",
+    "words/05_attend.md",
+    "words/82_sad.md",
+    "words/08_aye.md",
+    "works/A Midsummer Night’s Dream.md",
+    "works/Antony and Cleopatra.md",
+    "words/13_belike.md"
   ]
 }
