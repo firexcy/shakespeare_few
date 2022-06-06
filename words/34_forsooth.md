@@ -1,7 +1,6 @@
 ---
 title:        "forsooth (adv.)"
 learned_on:   "2022-05-15"
-reviewed_on:  "N/A"
 ---
 
 in truth, certainly, truly, indeed

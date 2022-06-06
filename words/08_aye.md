@@ -1,7 +1,6 @@
 ---
 title:        "aye (adv.)"
 learned_on:   "2022-05-13"
-reviewed_on:  "N/A"
 ---
 
 always, ever, for eternity

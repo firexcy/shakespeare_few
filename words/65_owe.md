@@ -1,7 +1,6 @@
 ---
 title:        "owe (v.)"
 learned_on:   "2022-05-26"
-reviewed_on:  "N/A"
 ---
 
 own, possess, have

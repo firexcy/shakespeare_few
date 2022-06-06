@@ -1,7 +1,6 @@
 ---
 title:        "presently (adv.)"
 learned_on:   "2022-05-09"
-reviewed_on:  "N/A"
 ---
 
 immediately, instantly, at once

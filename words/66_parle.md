@@ -1,7 +1,6 @@
 ---
 title:        "parle, parley (n.)"
 learned_on:   "2022-05-09"
-reviewed_on:  "N/A"
 ---
 
 negotiation, meeting \[between enemies under a truce, to discuss terms\]

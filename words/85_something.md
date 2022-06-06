@@ -1,7 +1,6 @@
 ---
 title:        "something (adv.)"
 learned_on:   "2022-05-24"
-reviewed_on:  "N/A"
 ---
 
 somewhat, rather

@@ -1,7 +1,6 @@
 ---
 title:        "aught (n.)"
 learned_on:   "2022-05-30"
-reviewed_on:  "N/A"
 ---
 
 anything; \[together with a negative word\] nothing

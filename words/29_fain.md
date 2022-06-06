@@ -1,7 +1,6 @@
 ---
 title:        "fain (adv.)"
 learned_on:   "2022-05-17"
-reviewed_on:  "N/A"
 ---
 
 \[usually with *would*\] gladly, willingly

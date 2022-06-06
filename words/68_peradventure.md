@@ -1,7 +1,6 @@
 ---
 title:        "peradventure (adv.)"
 learned_on:   "2022-05-17"
-reviewed_on:  "N/A"
 ---
 
 perhaps, maybe, very likely

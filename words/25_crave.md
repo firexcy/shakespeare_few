@@ -1,7 +1,6 @@
 ---
 title:        "crave (v.)"
 learned_on:   "2022-05-27"
-reviewed_on:  "N/A"
 ---
 
 beg, entreat, request

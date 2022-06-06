@@ -1,7 +1,6 @@
 ---
 title:        "sup (v.)"
 learned_on:   "2022-05-16"
-reviewed_on:  "N/A"
 ---
 
 have supper

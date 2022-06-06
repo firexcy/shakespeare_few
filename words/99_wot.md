@@ -1,7 +1,6 @@
 ---
 title:        "wot (v.)"
 learned_on:   "2022-05-13"
-reviewed_on:  "N/A"
 ---
 
 learn, know, be told

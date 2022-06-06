@@ -1,7 +1,6 @@
 ---
 title:        "field (n.)"
 learned_on:   "2022-05-27"
-reviewed_on:  "N/A"
 ---
 
 field of battle, battleground, field of combat

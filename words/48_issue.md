@@ -1,7 +1,6 @@
 ---
 title:        "issue (n.)"
 learned_on:   "2022-05-08"
-reviewed_on:  "N/A"
 ---
 
 ## child(ren), offspring, family, descendant

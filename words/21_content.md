@@ -1,7 +1,6 @@
 ---
 title:        "content (adj.)"
 learned_on:   "2022-05-11"
-reviewed_on:  "N/A"
 ---
 
 agreeable, willing, ready

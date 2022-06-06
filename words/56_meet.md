@@ -1,7 +1,6 @@
 ---
 title:        "meet (adj.)"
 learned_on:   "2022-05-17"
-reviewed_on:  "N/A"
 ---
 
 fit, suitable, right, proper

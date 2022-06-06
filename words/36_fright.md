@@ -1,7 +1,6 @@
 ---
 title:        "fright (v.)"
 learned_on:   "2022-05-12"
-reviewed_on:  "N/A"
 ---
 
 frighten, scare, terrify

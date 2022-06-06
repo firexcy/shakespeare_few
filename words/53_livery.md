@@ -1,7 +1,6 @@
 ---
 title:        "livery (n.)"
 learned_on:   "2022-05-05"
-reviewed_on:  "N/A"
 ---
 
 uniform, costume, special clothing

@@ -1,7 +1,6 @@
 ---
 title:        "arrant (adj.)"
 learned_on:   "2022-05-31"
-reviewed_on:  "N/A"
 ---
 
 downright, absolute, unmitigated

@@ -1,7 +1,6 @@
 ---
 title:        "afeard (adj.)"
 learned_on:   "2022-05-05"
-reviewed_on:  "N/A"
 ---
 
 afraid, frightened, scared

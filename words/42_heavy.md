@@ -1,7 +1,6 @@
 ---
 title:        "heavy (adj.)"
 learned_on:   "2022-05-19"
-reviewed_on:  "N/A"
 ---
 
 sorrowful, sad, gloomy

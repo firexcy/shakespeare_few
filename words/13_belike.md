@@ -1,7 +1,6 @@
 ---
 title:        "belike (adv.)"
 learned_on:   "2022-05-11"
-reviewed_on:  "N/A"
 ---
 
 probably, presumably, perhaps, so it seems

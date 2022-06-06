@@ -1,7 +1,6 @@
 ---
 title:        "apace (adv.)"
 learned_on:   "2022-05-08"
-reviewed_on:  "N/A"
 ---
 
 quickly, speedily, at a great rate

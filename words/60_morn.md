@@ -1,7 +1,6 @@
 ---
 title:        "morn (n.)"
 learned_on:   "2022-06-02"
-reviewed_on:  "N/A"
 ---
 
 morning, dawn

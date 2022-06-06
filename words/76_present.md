@@ -1,7 +1,6 @@
 ---
 title:        "present (adj.)"
 learned_on:   "2022-05-30"
-reviewed_on:  "N/A"
 ---
 
 immediate, instant

@@ -1,7 +1,6 @@
 ---
 title:        "brave (adj.)"
 learned_on:   "2022-06-02"
-reviewed_on:  "N/A"
 ---
 
 fine, excellent, splendid, impressive

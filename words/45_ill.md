@@ -1,7 +1,6 @@
 ---
 title:        "ill (adj.)"
 learned_on:   "2022-05-15"
-reviewed_on:  "N/A"
 ---
 
 bad, adverse, unfavourable

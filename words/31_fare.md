@@ -1,7 +1,6 @@
 ---
 title:        "fare (v.)"
 learned_on:   "2022-05-22"
-reviewed_on:  "N/A"
 ---
 
 get on, manage, do, cope

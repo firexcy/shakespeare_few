@@ -1,7 +1,6 @@
 ---
 title:        "haply (adv.)"
 learned_on:   "2022-06-03"
-reviewed_on:  "N/A"
 ---
 
 perhaps, maybe, by chance, with luck

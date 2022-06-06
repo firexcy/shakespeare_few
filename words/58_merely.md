@@ -1,7 +1,6 @@
 ---
 title:        "merely (adv.)"
 learned_on:   "2022-06-04"
-reviewed_on:  "N/A"
 ---
 
 completely, totally, entirely

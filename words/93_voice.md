@@ -1,7 +1,6 @@
 ---
 title:        "voice (n.)"
 learned_on:   "2022-06-04"
-reviewed_on:  "N/A"
 ---
 
 vote, official support

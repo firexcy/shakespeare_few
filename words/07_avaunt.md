@@ -1,7 +1,6 @@
 ---
 title:        "avaunt (int.)"
 learned_on:   "2022-05-16"
-reviewed_on:  "N/A"
 ---
 
 begone, go away, be off

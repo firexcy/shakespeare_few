@@ -1,7 +1,6 @@
 ---
 title:        "wit (n.)"
 learned_on:   "2022-05-21"
-reviewed_on:  "N/A"
 ---
 
 ## 1 

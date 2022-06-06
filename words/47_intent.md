@@ -1,7 +1,6 @@
 ---
 title:        "intent (n.)"
 learned_on:   "2022-05-21"
-reviewed_on:  "N/A"
 ---
 
 intention, purpose, aim

@@ -1,7 +1,6 @@
 ---
 title:        "like (adj.)"
 learned_on:   "2022-05-12"
-reviewed_on:  "N/A"
 ---
 
 same, similar, alike, equal

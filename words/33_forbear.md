@@ -1,7 +1,6 @@
 ---
 title:        "forbear (v.)"
 learned_on:   "2022-05-28"
-reviewed_on:  "N/A"
 ---
 
 ## 1 

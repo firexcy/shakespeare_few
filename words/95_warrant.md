@@ -1,7 +1,6 @@
 ---
 title:        "warrant (v.)"
 learned_on:   "2022-05-21"
-reviewed_on:  "N/A"
 ---
 
 assure, promise, guarantee, confirm

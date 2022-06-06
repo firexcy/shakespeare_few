@@ -1,7 +1,6 @@
 ---
 title:        "marvellous (adv.)"
 learned_on:   "2022-05-10"
-reviewed_on:  "N/A"
 ---
 
 very, extremely, exceedingly

@@ -1,7 +1,6 @@
 ---
 title:        "morrow (n.)"
 learned_on:   "2022-05-24"
-reviewed_on:  "N/A"
 ---
 
 morning

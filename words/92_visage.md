@@ -1,7 +1,6 @@
 ---
 title:        "visage (n.)"
 learned_on:   "2022-05-18"
-reviewed_on:  "N/A"
 ---
 
 face, countenance

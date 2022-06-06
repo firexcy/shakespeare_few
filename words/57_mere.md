@@ -1,7 +1,6 @@
 ---
 title:        "mere (adj.)"
 learned_on:   "2022-06-05"
-reviewed_on:  "N/A"
 ---
 
 complete, total, absolute, utter

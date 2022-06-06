@@ -1,7 +1,6 @@
 ---
 title:        "forswear (v.)"
 learned_on:   "2022-05-29"
-reviewed_on:  "N/A"
 ---
 
 ## 1

@@ -1,7 +1,6 @@
 ---
 title:        "perchance (adv.)"
 learned_on:   "2022-05-14"
-reviewed_on:  "N/A"
 ---
 
 perhaps, maybe

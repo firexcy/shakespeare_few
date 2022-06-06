@@ -1,7 +1,6 @@
 ---
 title:        "brow (n.)"
 learned_on:   "2022-05-20"
-reviewed_on:  "N/A"
 ---
 
 appearance, aspect, countenance

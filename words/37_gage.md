@@ -1,7 +1,6 @@
 ---
 title:        "gage (n.)"
 learned_on:   "2022-05-29"
-reviewed_on:  "N/A"
 ---
 
 pledge, challenge \[usually, a glove or gauntlet thrown down\]

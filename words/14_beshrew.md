@@ -1,7 +1,6 @@
 ---
 title:        "beshrew, ’shrew (v.)"
 learned_on:   "2022-06-03"
-reviewed_on:  "N/A"
 ---
 
 curse, devil take, evil befall

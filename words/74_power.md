@@ -1,7 +1,6 @@
 ---
 title:        "power (n.)"
 learned_on:   "2022-05-10"
-reviewed_on:  "N/A"
 ---
 
 armed force, troops, host, army

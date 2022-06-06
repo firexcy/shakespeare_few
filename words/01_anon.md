@@ -1,7 +1,6 @@
 ---
 title:        "anon (adv.)"
 learned_on:   "2022-05-15"
-reviewed_on:  "N/A"
 ---
 
 soon, shortly, presently

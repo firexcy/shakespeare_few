@@ -1,7 +1,6 @@
 ---
 title:        "sport (n.)"
 learned_on:   "2022-05-10"
-reviewed_on:  "N/A"
 ---
 
 recreation, amusement, entertainment

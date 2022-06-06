@@ -1,7 +1,6 @@
 ---
 title:        "straight (adv.)"
 learned_on:   "2022-06-05"
-reviewed_on:  "N/A"
 ---
 
 straightaway, immediately, at once

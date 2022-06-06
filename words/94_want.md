@@ -1,7 +1,6 @@
 ---
 title:        "want (v.)"
 learned_on:   "2022-05-25"
-reviewed_on:  "N/A"
 ---
 
 lack, need, be without

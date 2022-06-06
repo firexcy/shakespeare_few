@@ -1,7 +1,6 @@
 ---
 title:        "bethink (v.)"
 learned_on:   "2022-05-28"
-reviewed_on:  "N/A"
 ---
 
 call to mind, think about, consider, reflect

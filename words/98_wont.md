@@ -1,7 +1,6 @@
 ---
 title:        "wont (v.)"
 learned_on:   "2022-05-05"
-reviewed_on:  "N/A"
 ---
 
 be accustomed, used \[to\], be in the habit of

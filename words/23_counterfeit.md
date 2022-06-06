@@ -1,7 +1,6 @@
 ---
 title:        "counterfeit (v.)"
 learned_on:   "2022-05-25"
-reviewed_on:  "N/A"
 ---
 
 ## 1

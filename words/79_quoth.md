@@ -1,7 +1,6 @@
 ---
 title:        "quoth (v.)"
 learned_on:   "2022-05-23"
-reviewed_on:  "N/A"
 ---
 
 said

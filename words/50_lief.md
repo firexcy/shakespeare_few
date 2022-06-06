@@ -1,7 +1,6 @@
 ---
 title:        "lief, had as (adj.)"
 learned_on:   "2022-05-13"
-reviewed_on:  "N/A"
 ---
 
 should like just as much

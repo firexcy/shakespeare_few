@@ -1,7 +1,6 @@
 ---
 title:        "like (adv.)"
 learned_on:   "2022-05-22"
-reviewed_on:  "N/A"
 ---
 
 likely, probable / probably

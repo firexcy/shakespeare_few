@@ -1,7 +1,6 @@
 ---
 title:        "false (adj.)"
 learned_on:   "2022-05-26"
-reviewed_on:  "N/A"
 ---
 
 treacherous, traitorous, perfidious

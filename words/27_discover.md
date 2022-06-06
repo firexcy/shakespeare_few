@@ -1,7 +1,6 @@
 ---
 title:        "discover (v.)"
 learned_on:   "2022-05-31"
-reviewed_on:  "N/A"
 ---
 
 reveal, show, make known

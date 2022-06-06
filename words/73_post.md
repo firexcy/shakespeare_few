@@ -1,7 +1,6 @@
 ---
 title:        "post (n.)"
 learned_on:   "2022-05-06"
-reviewed_on:  "N/A"
 ---
 
 express messenger, courier
