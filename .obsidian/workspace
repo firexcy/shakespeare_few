@@ -50,6 +50,18 @@
             "source": true
           }
         }
+      },
+      {
+        "id": "7a445de7a4a0f679",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "WDLIST.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "words/46_ill.md",
+                "file": "words/18_chide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,12 +136,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dd3b4d5f70f986cf",
+  "active": "60af46b26b6a09f3",
   "lastOpenFiles": [
-    "words/46_ill.md",
-    "words/71_physic.md",
-    "words/43_hie.md",
     "words/18_chide.md",
+    "words/43_hie.md",
+    "words/71_physic.md",
+    "words/46_ill.md",
     "WDLIST.md",
     "words/09_base.md",
     "works/The Two Gentlemen of Verona.md",

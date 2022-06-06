@@ -1,6 +1,6 @@
 ---
 title:        "chide (v.)"
-learned_on:   "N/A"
+learned_on:   "2022-06-06"
 ---
 
 past form chid: scold, rebuke, reprove

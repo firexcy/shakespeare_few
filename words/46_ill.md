@@ -1,6 +1,6 @@
 ---
 title:        "ill (adv.)"
-learned_on:   "N/A"
+learned_on:   "2022-06-06"
 ---
 
 badly, adversely, unfavourably

@@ -1,6 +1,6 @@
 ---
 title:        "physic (n.)"
-learned_on:   "N/A"
+learned_on:   "2022-06-06"
 ---
 
 medicine, healing, treatment

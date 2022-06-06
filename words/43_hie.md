@@ -1,6 +1,6 @@
 ---
 title:        "hie (v.)"
-learned_on:   "N/A"
+learned_on:   "2022-06-06"
 ---
 
 hasten, hurry, speed
